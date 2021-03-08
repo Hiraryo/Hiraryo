@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/hiraryo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiraryo&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/hiraryo">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiraryo" />
 </a>

@@ -1,4 +1,4 @@
-### Hi there 👋ε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘
+### Hi there 👋(｀・ω・´)
 
 <!--
 **Hiraryo/Hiraryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
